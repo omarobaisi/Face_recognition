@@ -3,7 +3,6 @@ building and evaluate a Face Recognition system using Supervised Machine Learnin
 
 Read CV.pdf for more info
 
-# -------
 
 Streamlit app demo:
 
