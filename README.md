@@ -1,8 +1,8 @@
 # Face_recognition
-building and evaluate a Face Recognition system using Supervised Machine Learning (ML) Algorithm from a public data-sets repository using three different machine learning algorithms (SVM, Random Forest, Decision tree)
+
+This is the source code for a face recognition system that was built and evaluated using supervised machine learning algorithms. The system was trained on a public dataset and tested using three different machine learning algorithms (SVM, Random Forest, Decision tree)
 
 Read CV.pdf for more info
-
 
 Streamlit app demo:
 
